@@ -4,7 +4,7 @@
 
 using namespace std;
 
-main()
+main()//учебная
 {
     int a, b, s, d, i, f;
     cin>>a;
